@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+yamiiinekoo-alt+👋;Full+Stack+Engineer+%26+Automation+Specialist+⚡;n8n+Workflows+%7C+React+%7C+Node.js+%7C+Python+%7C+Cloud;Welcome+to+my+official+GitHub+Profile!" alt="Typing SVG Header" />
-  
-  <p align="center">
-    <strong>Building high-performance full-stack web applications, n8n automated workflows & cloud microservices.</strong>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff0055&height=200&section=header&text=yamiiinekoo-alt&fontSize=40&subtext=Full%20Stack%20Engineer%20%26%20Workflow%20Automation%20Specialist&subFontSize=16&subtextY=135" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+yamiiinekoo-alt+👋;Full+Stack+Engineer+%26+Automation+Specialist;n8n+Workflows+%7C+React+%7C+Node.js+%7C+Python+%7C+Cloud" alt="Typing SVG" />
 
   <p align="center">
     📍 <em>Indonesia / Remote</em> &nbsp;|&nbsp;
-    🌐 <a href="https://github.com/yamiiinekoo-alt">GitHub Profile</a> &nbsp;|&nbsp;
-    ⚡ <em>Workflow Automation & Full Stack Engineering</em>
+    🏢 <em>Full Stack & Automation Engineer</em> &nbsp;|&nbsp;
+    🌐 <a href="https://github.com/yamiiinekoo-alt">GitHub Profile</a>
   </p>
 </div>
 
@@ -17,27 +17,26 @@
 ### 🛡️ Developer Rank Certification
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=yamiiinekoo-alt&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats Rank" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=yamiiinekoo-alt&theme=cyberpunk" alt="GitHub Commit Streak" />
-  </a>
+  <img src="https://img.shields.io/badge/Developer_Grade-A%2B--Top_1%25_Master-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Developer Rank Grade" />
+  <img src="https://img.shields.io/badge/Rank_Score-88_%2F_100_PTS-FF0055?style=for-the-badge&logo=shield&logoColor=white" alt="Rank Score" />
+  <img src="https://img.shields.io/badge/Status-Verified_Developer-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamiiinekoo-alt&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="https://img.shields.io/badge/Commits-880-38BDF8?style=flat-square&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Stars-185-F59E0B?style=flat-square&logo=apachespark&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Pull_Requests-74-C084FC?style=flat-square&logo=gitpullrequest&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Issues-28-34D399?style=flat-square&logo=jira&logoColor=white" alt="Issues" />
+  <img src="https://img.shields.io/badge/Contributions-1%2C120-F43F5E?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
 </div>
 
 ---
 
 ### 🛠️ Tech Stack & Cyberpunk Toolkit
 
-**⚡ Workflow & Automation:**
+**⚡ Automation & Tools:**
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
@@ -47,7 +46,7 @@
 
 <br />
 
-**💻 Languages & Core Stack:**
+**💻 Languages:**
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -91,23 +90,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yamiiinekoo-alt&theme=flat&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-</div>
-
----
-
-### 🐍 Contribution Activity Grid
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yamiiinekoo-alt/yamiiinekoo-alt/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk" alt="Daily Dev Quote" />
   <p>✨ <em>Generated with GitHub Profile Studio for @yamiiinekoo-alt | Developer Grade: <strong>A+ Grade (Top 1% Master Developer)</strong></em> ✨</p>
 </div>
